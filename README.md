@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Konrad!
-🎓 I'm a 26-year-old Computer Science student. Currently, I'm focused on enhancing my backend skills and creating tools to solve real-world problems.
+🎓 I'm a 26-year-old Computer Science student. Currently focused on enhancing backend skills and creating tools to solve real-world problems.
 
 🔭 Currently working on back-end side of [WrenchWorks🔧](https://github.com/Dabrowski98/wrenchworks-backend). Solution for streamlining daily operations by organizing tasks, schedules, and resources. Tracking repairs, managing customer and vehicle records, maintaining service histories and many more.
 
